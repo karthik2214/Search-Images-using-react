@@ -14,6 +14,6 @@ To Install this in your machine
 
 ################ Demo Of The site ##################
 
-Link of the demo 📢 https://mytop10animelistusingreactbyzero.netlify.app
+Link of the demo 📢 https://searchimagesbyzero.netlify.app
 
 Thank You For Visting This Repository ❤. 
